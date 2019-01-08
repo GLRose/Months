@@ -5,6 +5,7 @@ STACK OVERFLOW LINK FOR SEEKG AND CLEAR: Shows how these functions operate...
 https://stackoverflow.com/questions/5986442/question-about-seekg-function-of-ifstream-in-c
 
 GETLINE FUNCTION LINK USING ARRAY: https://www.geeksforgeeks.org/getline-function-character-array/
+```
 // C++ program to show the getline() with  
 // character array 
 #include <iostream> 
@@ -24,9 +25,10 @@ int main()
     cout << "\nYour Name is:: " << str; 
     return 0; 
 } 
-
+```
 
 GETLINE FUNCTION LINK WITHOUT ARRAY: https://www.geeksforgeeks.org/getline-string-c/
+```
 // C++ program to demonstrate getline() 
   
 //#include <iostream> 
@@ -44,3 +46,4 @@ int main ()
   
     return 0; 
 } 
+```
